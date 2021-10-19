@@ -7,7 +7,7 @@ Design a neural network that can take inputs as below and can predict the output
 
 ![Problem_Statement](images/Problem_Statement.png)
 
-To execute our code, run [EVA6_Session_3_Assignment.ipynb](EVA6_Session_3_Assignment.ipynb) locally or use this [link](https://colab.research.google.com/drive/1zVnbS3jnDvBPmI8Lx1Eo08WYed6o40us?usp=sharing) to directly run on Google Colab.
+To execute our code, run [EVA7_PyTorch.ipynb](EVA7_PyTorch.ipynb) locally or use this [link](https://colab.research.google.com/drive/1zVnbS3jnDvBPmI8Lx1Eo08WYed6o40us?usp=sharing) to directly run on Google Colab.
 
 ## Data Representation
 We represent the dataset as shown below:
